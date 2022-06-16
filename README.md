@@ -146,8 +146,8 @@ These packages are a smaller download size than the full set of Windows Server 2
 - [Windows Server 2003 Service Pack 2 x86 checked symbols, all languages](http://msdl.microsoft.com/download/symbols/packages/windows2003/WindowsServer2003-KB933548-v1-x86-symbols-UPD-ENU-DEBUG.exe) (File size: 130 MB)
 - [Windows Server 2003 Service Pack 2 Itanium-based retail symbols, all languages](http://msdl.microsoft.com/download/symbols/packages/windows2003/WindowsServer2003-KB933548-v1-ia64-symbols-UPD-ENU.exe) (File size: 99 MB)
 - [Windows Server 2003 Service Pack 2 Itanium-based checked symbols, all languages](http://msdl.microsoft.com/download/symbols/packages/windows2003/WindowsServer2003-KB933548-v1-ia64-symbols-UPD-ENU-DEBUG.exe) (File size: 121 MB)
-- [Windows Server 2003 with Service Pack 2 x64-based retail symbols, all languages](http://msdl.microsoft.com/download/symbols/packages/windows2003/WindowsServer2003-KB933548-v1-x64-symbols-UPD-ENU.exe) (File size: 111 MB)
-- [Windows Server 2003 with Service Pack 2 x64-based checked symbols, all languages](http://msdl.microsoft.com/download/symbols/packages/windows2003/WindowsServer2003-KB933548-v1-x64-symbols-UPD-ENU-DEBUG.exe) (File size: 101 MB)
+- [Windows Server 2003 Service Pack 2 x64-based retail symbols, all languages](http://msdl.microsoft.com/download/symbols/packages/windows2003/WindowsServer2003-KB933548-v1-x64-symbols-UPD-ENU.exe) (File size: 111 MB)
+- [Windows Server 2003 Service Pack 2 x64-based checked symbols, all languages](http://msdl.microsoft.com/download/symbols/packages/windows2003/WindowsServer2003-KB933548-v1-x64-symbols-UPD-ENU-DEBUG.exe) (File size: 101 MB)
 
 **Windows Server 2003 with Service Pack 1 symbols**
 
