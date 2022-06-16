@@ -231,6 +231,10 @@ The links below will either download the symbols package, or take you to sites t
 
 Select language:
 
+[Click here to download](https://github.com/demerspring/windows-symbols/raw/master/windows2000/Windows2000-KB891861-x86-Symbols-ENU.EXE) (EN)(Download size: 22 MB)
+
+<!--
+
 Arabic Chinese (Simplified) Chinese (Traditional) Czech Danish Dutch English Finnish French German Greek Hebrew Hungarian Italian Japanese Japanese NEC98 Korean Norwegian Polish Portugese Portugese (Brazilian) Russian Spanish Swedish Turkish
 
 [Click here to download](http://msdl.microsoft.com/download/symbols/packages/windows2000/SP4.SRP/Windows2000-KB891861-x86-Symbols-ENU.EXE) (EN)(Download size: 22 MB)
@@ -283,9 +287,15 @@ Arabic Chinese (Simplified) Chinese (Traditional) Czech Danish Dutch English Fin
 
 [Click here to download](http://msdl.microsoft.com/download/symbols/packages/windows2000/SP4.SRP/Windows2000-KB891861-x86-Symbols-ELL.EXE) (ELL)(Download size: 22 MB)
 
+-->
+
 **Windows 2000 Service Pack 4.** To install additional symbols introduced with Service Pack 4, select the language that you want to download in the drop down box below and then click on the link that says "Click here to download". To obtain a complete set of symbols, you need to first install the Windows 2000 symbols, and then install the Service Pack 4 symbols.
 
 Select language:
+
+[Click here to download](https://github.com/demerspring/windows-symbols/raw/master/windows2000/w2ksp4sym_en.exe) (EN)(Download size: 72 MB)
+
+<!--
 
 Arabic Chinese (Simplified) Chinese (Traditional) Chinese (Hong Kong SAR) Czech Danish Dutch English Finnish French German Greek Hebrew Hungarian Italian Japanese Japanese NEC98 Korean Norwegian Polish Portugese Portugese (Brazilian) Russian Spanish Swedish Turkish
 
@@ -341,11 +351,17 @@ Arabic Chinese (Simplified) Chinese (Traditional) Chinese (Hong Kong SAR) Czech 
 
 [Click here to download](http://msdl.microsoft.com/download/symbols/packages/windows2000/sp4/w2ksp4sym_el.exe) (EL)(Download size: 74 MB)
 
-If you have a special version of Service Pack 4 with extra debugging information, then you should download the symbols for the checked version. To download the English checked version of Service Pack 4, [click here](http://msdl.microsoft.com/download/symbols/packages/Windows2000/sp4/w2ksp4sym_en_chk.exe) (Download size: 66 MB).
+-->
+
+If you have a special version of Service Pack 4 with extra debugging information, then you should download the symbols for the checked version. To download the English checked version of Service Pack 4, [click here](https://github.com/demerspring/windows-symbols/raw/master/Windows2000/w2ksp4sym_en_chk.exe) (Download size: 66 MB).
 
 **Windows 2000 Service Pack 3.** To install additional symbols introduced with Service Pack 3, select the language that you want to download in the drop down box below and then click on the link that says "Click here to download". To obtain a complete set of symbols, you need to first install the Windows 2000 symbols, and then install the Service Pack 3 symbols.
 
 Select language:
+
+[Click here to download](https://github.com/demerspring/windows-symbols/raw/master/Windows2000/w2ksp3sym_en.exe) (EN)(Download size: 67 MB)
+
+<!--
 
 English French German Italian Japanese Japanese NEC98 Portugese (Brazilian) Spanish
 
@@ -365,11 +381,17 @@ English French German Italian Japanese Japanese NEC98 Portugese (Brazilian) Span
 
 [Click here to download](http://msdl.microsoft.com/download/symbols/packages/Windows2000/sp3/w2ksp3sym_nec98.exe) (JP NEC98)(Download size: 67 MB)
 
-If you have a special version of Service Pack 3 with extra debugging information, then you should download the symbols for the checked version. To download the English checked version of Service Pack 3, [click here](http://msdl.microsoft.com/download/symbols/packages/Windows2000/sp3/w2ksp3sym_en_chk.exe).
+-->
+
+If you have a special version of Service Pack 3 with extra debugging information, then you should download the symbols for the checked version. To download the English checked version of Service Pack 3, [click here](https://github.com/demerspring/windows-symbols/raw/master/Windows2000/w2ksp3sym_en_chk.exe).
 
 Windows 2000 Service Pack 2 Security Rollup Package 1. To install additional symbols introduced with the Service Pack 2 Security Rollup Package 1, select the language that you want to download in the drop down box below and then click on the link that says "Click here to download". To obtain a complete set of symbols, you need to first install the Windows 2000 symbols, and then install the Service Pack 2 symbols, and then install the Security Rollup Package 1 symbols.
 
 Select language:
+
+[Click here to download](https://github.com/demerspring/windows-symbols/raw/master/Windows2000/sp2srp1sym_en.exe) (EN)(Download size: 19 MB)
+
+<!--
 
 English Arabic Chinese (Simplified) Chinese (Traditional) Czech Danish Dutch Finnish French German Greek Hebrew Hungarian Italian Japanese Japanese NEC98 Korean Norwegian Polish Portugese Portugese (Brazilian) Russian Spanish Swedish Turkish
 
@@ -422,9 +444,10 @@ English Arabic Chinese (Simplified) Chinese (Traditional) Czech Danish Dutch Fin
 [Click here to download](http://msdl.microsoft.com/download/symbols/packages/Windows2000/w2ksrp1/sp2srp1sym_tr.exe) (TR)(Download size: 19 MB)
 
 [Click here to download](http://msdl.microsoft.com/download/symbols/packages/Windows2000/w2ksrp1/sp2srp1sym_tw.exe) (TW)(Download size: 19 MB)
+-->
 
-[Windows 2000 Service Pack 2 Symbols](http://www.microsoft.com/Windows2000/downloads/servicepacks/sp2/debug/default.mspx) - additional symbols introduced with SP2. To obtain a complete set of symbols for Windows 2000 with Service Pack 2, you need to first install the Windows 2000 symbols and then install the Service Pack 2 symbols.
+[Windows 2000 Service Pack 2 Symbols](https://github.com/demerspring/windows-symbols/raw/master/Windows2000/SP2SYM.exe) - additional symbols introduced with SP2. To obtain a complete set of symbols for Windows 2000 with Service Pack 2, you need to first install the Windows 2000 symbols and then install the Service Pack 2 symbols.
 
-[Windows 2000 Service Pack 1 Symbols](http://www.microsoft.com/Windows2000/downloads/servicepacks/sp1/debug/default.mspx) - additional symbols introduced with SP1. To obtain a complete set of symbols for Windows 2000 with Service Pack 1, you need to first install the Windows 2000 symbols and then install the Service Pack 1 symbols.
+[Windows 2000 Service Pack 1 Symbols](https://github.com/demerspring/windows-symbols/raw/master/Windows2000/SP1SYM.exe) - additional symbols introduced with SP1. To obtain a complete set of symbols for Windows 2000 with Service Pack 1, you need to first install the Windows 2000 symbols and then install the Service Pack 1 symbols.
 
-[Windows 2000 Symbols](http://msdl.microsoft.com/download/symbols/packages/Windows2000/RTM/Windows_2000_RTM_Symbols.exe) (Download size: 98 MB) - Files required for debugging Windows 2000.
+[Windows 2000 Symbols](https://github.com/demerspring/windows-symbols/raw/master/Windows2000/Windows_2000_RTM_Symbols.exe) (Download size: 98 MB) - Files required for debugging Windows 2000.
