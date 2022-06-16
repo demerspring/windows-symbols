@@ -186,40 +186,40 @@ Windows XP
 
 These packages contain the full set of symbols required to debug Windows XP with Service Pack 2. The symbols for Windows XP have been modified to match the updated files that are in the Windows XP Service Pack 2.
 
-- [Windows XP with Service Pack 2 x86 retail symbols, all languages](windowsxp/WindowsXP-KB835935-SP2-slp-Symbols.exe) (File size: 195 MB - Most customers want this package.)
-- [Windows XP with Service Pack 2 x86 checked symbols, all languages](windowsxp/WindowsXP-KB835935-SP2-Debug-slp-Symbols.exe) (File size: 188 MB)
+- [Windows XP with Service Pack 2 x86 retail symbols, all languages](https://github.com/demerspring/windows-symbols/raw/master/windowsxp/WindowsXP-KB835935-SP2-slp-Symbols.exe) (File size: 195 MB - Most customers want this package.)
+- [Windows XP with Service Pack 2 x86 checked symbols, all languages](https://github.com/demerspring/windows-symbols/raw/master/windowsxp/WindowsXP-KB835935-SP2-Debug-slp-Symbols.exe) (File size: 188 MB)
 
 **Reduced download size: Windows XP Service Pack 2**
 
 These packages are a smaller download size than the full set of Windows XP with Service Pack 2 symbols. They contain only the symbols for the files that ship with the Windows XP Service Pack 2. If you already have the Windows XP symbols installed, you can install these to the same location and you will have a full set of Windows XP with Service Pack 2 symbols.
 
-- [Windows XP Service Pack 2 x86 retail symbols, all languages](windowsxp/WindowsXP-KB835935-SP2-Symbols.exe) (File size: 145 MB - Most customers want this package.)
-- [Windows XP Service Pack 2 x86 checked symbols, all languages](windowsxp/WindowsXP-KB835935-SP2-Debug-Symbols.exe) (File size: 132 MB)
+- [Windows XP Service Pack 2 x86 retail symbols, all languages](https://github.com/demerspring/windows-symbols/raw/master/windowsxp/WindowsXP-KB835935-SP2-Symbols.exe) (File size: 145 MB - Most customers want this package.)
+- [Windows XP Service Pack 2 x86 checked symbols, all languages](https://github.com/demerspring/windows-symbols/raw/master/windowsxp/WindowsXP-KB835935-SP2-Debug-Symbols.exe) (File size: 132 MB)
 
 **Windows XP with Service Pack 1 and Service Pack 1a symbols**
 
 These packages contain the full set of symbols required to debug Windows XP with Service Pack 1 or Service Pack 1a applied. The symbols for Windows XP have been modified to match the updated files that are in the Windows XP Service Pack 1 and Service Pack 1a.
 
-- [Windows XP with Service Pack 1 and Service Pack 1a x86 retail symbols, all languages](windowsxp/xpsp1sym_x86.exe) (File size: 172 MB - Most customers want this package.)
-- [Windows XP with Service Pack 1 and Service Pack 1a Itanium retail symbols, all languages](windowsxp/xpsp1sym_ia64.exe) (File size: 101 MB)
-- [Windows XP with Service Pack 1 and Service Pack 1a x86 checked symbols, all languages](windowsxp/xpsp1sym_x86_chk.exe) (File size: 168 MB)
-- [Windows XP with Service Pack 1 and Service Pack 1a Itanium checked symbols, all languages](windowsxp/xpsp1sym_ia64_chk.exe) (File size: 124 MB)
+- [Windows XP with Service Pack 1 and Service Pack 1a x86 retail symbols, all languages](https://github.com/demerspring/windows-symbols/raw/master/windowsxp/xpsp1sym_x86.exe) (File size: 172 MB - Most customers want this package.)
+- [Windows XP with Service Pack 1 and Service Pack 1a Itanium retail symbols, all languages](https://github.com/demerspring/windows-symbols/raw/master/windowsxp/xpsp1sym_ia64.exe) (File size: 101 MB)
+- [Windows XP with Service Pack 1 and Service Pack 1a x86 checked symbols, all languages](https://github.com/demerspring/windows-symbols/raw/master/windowsxp/xpsp1sym_x86_chk.exe) (File size: 168 MB)
+- [Windows XP with Service Pack 1 and Service Pack 1a Itanium checked symbols, all languages](https://github.com/demerspring/windows-symbols/raw/master/windowsxp/xpsp1sym_ia64_chk.exe) (File size: 124 MB)
 
 **Reduced download size: Windows XP Service Pack 1 and Service Pack 1a symbols**
 
 These packages are a smaller download size than the full set of Windows XP with Service Pack 1 and Service Pack 1a symbols. They contain only the symbols for the files that ship with the Windows XP Service Pack 1 and Service Pack 1a. If you already have the Windows XP symbols installed, you can install these to the same location and you will have a full set of Windows XP with Service Pack 1 and Service Pack 1a symbols.
 
-- [Windows XP Service Pack 1 and Service Pack 1a x86 retail symbols, all languages](windowsxp/xpsp1sym_x86_sponly.exe) (File size: 103 MB - Most customers want this package.)
-- [Windows XP Service Pack 1 and Service Pack 1a Itanium retail symbols, all languages](windowsxp/xpsp1sym_ia64_sponly.exe) (File size: 50 MB)
-- [Windows XP Service Pack 1 and Service Pack 1a x86 checked symbols, all languages](windowsxp/xpsp1sym_x86_chk_sponly.exe) (File size: 96 MB)
-- [Windows XP Service Pack 1 and Service Pack 1a Itanium checked symbols, all languages](windowsxp/xpsp1sym_ia64_chk_sponly.exe) (File size: 63 MB)
+- [Windows XP Service Pack 1 and Service Pack 1a x86 retail symbols, all languages](https://github.com/demerspring/windows-symbols/raw/master/windowsxp/xpsp1sym_x86_sponly.exe) (File size: 103 MB - Most customers want this package.)
+- [Windows XP Service Pack 1 and Service Pack 1a Itanium retail symbols, all languages](https://github.com/demerspring/windows-symbols/raw/master/windowsxp/xpsp1sym_ia64_sponly.exe) (File size: 50 MB)
+- [Windows XP Service Pack 1 and Service Pack 1a x86 checked symbols, all languages](https://github.com/demerspring/windows-symbols/raw/master/windowsxp/xpsp1sym_x86_chk_sponly.exe) (File size: 96 MB)
+- [Windows XP Service Pack 1 and Service Pack 1a Itanium checked symbols, all languages](https://github.com/demerspring/windows-symbols/raw/master/windowsxp/xpsp1sym_ia64_chk_sponly.exe) (File size: 63 MB)
 
 **Windows XP symbols with no Service Pack**
 
-- [Windows XP x86 retail symbols, all languages](windowsxp/windowsxp.x86.fre.rtm.symbols.exe) (File size: 149 MB - Most customers want this package.)
-- [Windows XP IA-64 retail symbols, all languages](windowsxp/windowsxp.ia64.fre.rtm.symbols.exe) (File size: 95 MB)
-- [Windows XP x86 checked symbols, all languages](windowsxp/windowsxp.x86.chk.rtm.symbols.exe) (File size: 147 MB)
-- [Windows XP IA-64 checked symbols, all languages](windowsxp/windowsxp.ia64.chk.rtm.symbols.exe) (File size: 116 MB)
+- [Windows XP x86 retail symbols, all languages](https://github.com/demerspring/windows-symbols/raw/master/windowsxp/windowsxp.x86.fre.rtm.symbols.exe) (File size: 149 MB - Most customers want this package.)
+- [Windows XP IA-64 retail symbols, all languages](https://github.com/demerspring/windows-symbols/raw/master/windowsxp/windowsxp.ia64.fre.rtm.symbols.exe) (File size: 95 MB)
+- [Windows XP x86 checked symbols, all languages](https://github.com/demerspring/windows-symbols/raw/master/windowsxp/windowsxp.x86.chk.rtm.symbols.exe) (File size: 147 MB)
+- [Windows XP IA-64 checked symbols, all languages](https://github.com/demerspring/windows-symbols/raw/master/windowsxp/windowsxp.ia64.chk.rtm.symbols.exe) (File size: 116 MB)
 
  
 
